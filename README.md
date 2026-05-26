@@ -14,7 +14,3 @@ I mostly work on data analysis projects in my coursework and I've done some anal
 
 ### Tech Stack
 Python • Java • Pandas • SQL • VS Code
-
-### Fun Facts
-- I'm Muslim 🌙
-- I ride a Ninja 300 🏍️
