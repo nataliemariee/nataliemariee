@@ -1,16 +1,16 @@
-## Hey! I'm Natalie 🌟
+## Hey there! 🌟
 
-<!--
-**nataliemariee/nataliemariee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm Natalie, a rising senior studying Data Science (and minoring in Education) at UC Berkeley.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work on data analysis projects in my coursework and I've done some contract work for analytics and ML projects.
+
+I'm currently an IDX Exchange Data Analyst intern, working on building a housing market analytics dashboard in Tableau.
+
+---
+
+## A bit about me
+- I'm Muslim 🌙
+- I love coffee ☕️
+- I ride a Ninja 300 🏍️
