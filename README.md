@@ -1,6 +1,6 @@
 ## Hey there! 
 
-I'm Natalie, a rising senior studying Data Science (and minoring in Education) at UC Berkeley.
+**I'm Natalie, a rising senior studying Data Science (and minoring in Education) at UC Berkeley.**
 
 I am passionate about applying my technical skills to innovative projects within the industry. My academic background has equipped me with a solid foundation in problem-solving and analytical thinking. Combined with my proficiency with programming languages such as Java and Python, as well as my ability to learn and adapt, I am well prepared to contribute to and solve complex technical challenges.
 
